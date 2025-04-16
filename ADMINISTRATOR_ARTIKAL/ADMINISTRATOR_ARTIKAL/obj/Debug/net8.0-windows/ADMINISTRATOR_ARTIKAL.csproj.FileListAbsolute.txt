@@ -1,0 +1,16 @@
+C:\Users\setsa\source\repos\ADMINISTRATOR_ARTIKAL\ADMINISTRATOR_ARTIKAL\bin\Debug\net8.0-windows\ADMINISTRATOR_ARTIKAL.exe
+C:\Users\setsa\source\repos\ADMINISTRATOR_ARTIKAL\ADMINISTRATOR_ARTIKAL\bin\Debug\net8.0-windows\ADMINISTRATOR_ARTIKAL.deps.json
+C:\Users\setsa\source\repos\ADMINISTRATOR_ARTIKAL\ADMINISTRATOR_ARTIKAL\bin\Debug\net8.0-windows\ADMINISTRATOR_ARTIKAL.runtimeconfig.json
+C:\Users\setsa\source\repos\ADMINISTRATOR_ARTIKAL\ADMINISTRATOR_ARTIKAL\bin\Debug\net8.0-windows\ADMINISTRATOR_ARTIKAL.dll
+C:\Users\setsa\source\repos\ADMINISTRATOR_ARTIKAL\ADMINISTRATOR_ARTIKAL\bin\Debug\net8.0-windows\ADMINISTRATOR_ARTIKAL.pdb
+C:\Users\setsa\source\repos\ADMINISTRATOR_ARTIKAL\ADMINISTRATOR_ARTIKAL\obj\Debug\net8.0-windows\ADMINISTRATOR_ARTIKAL.Form1.resources
+C:\Users\setsa\source\repos\ADMINISTRATOR_ARTIKAL\ADMINISTRATOR_ARTIKAL\obj\Debug\net8.0-windows\ADMINISTRATOR_ARTIKAL.csproj.GenerateResource.cache
+C:\Users\setsa\source\repos\ADMINISTRATOR_ARTIKAL\ADMINISTRATOR_ARTIKAL\obj\Debug\net8.0-windows\ADMINISTRATOR_ARTIKAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\setsa\source\repos\ADMINISTRATOR_ARTIKAL\ADMINISTRATOR_ARTIKAL\obj\Debug\net8.0-windows\ADMINISTRATOR_ARTIKAL.AssemblyInfoInputs.cache
+C:\Users\setsa\source\repos\ADMINISTRATOR_ARTIKAL\ADMINISTRATOR_ARTIKAL\obj\Debug\net8.0-windows\ADMINISTRATOR_ARTIKAL.AssemblyInfo.cs
+C:\Users\setsa\source\repos\ADMINISTRATOR_ARTIKAL\ADMINISTRATOR_ARTIKAL\obj\Debug\net8.0-windows\ADMINISTRATOR_ARTIKAL.csproj.CoreCompileInputs.cache
+C:\Users\setsa\source\repos\ADMINISTRATOR_ARTIKAL\ADMINISTRATOR_ARTIKAL\obj\Debug\net8.0-windows\ADMINISTRATOR_ARTIKAL.dll
+C:\Users\setsa\source\repos\ADMINISTRATOR_ARTIKAL\ADMINISTRATOR_ARTIKAL\obj\Debug\net8.0-windows\refint\ADMINISTRATOR_ARTIKAL.dll
+C:\Users\setsa\source\repos\ADMINISTRATOR_ARTIKAL\ADMINISTRATOR_ARTIKAL\obj\Debug\net8.0-windows\ADMINISTRATOR_ARTIKAL.pdb
+C:\Users\setsa\source\repos\ADMINISTRATOR_ARTIKAL\ADMINISTRATOR_ARTIKAL\obj\Debug\net8.0-windows\ADMINISTRATOR_ARTIKAL.genruntimeconfig.cache
+C:\Users\setsa\source\repos\ADMINISTRATOR_ARTIKAL\ADMINISTRATOR_ARTIKAL\obj\Debug\net8.0-windows\ref\ADMINISTRATOR_ARTIKAL.dll
